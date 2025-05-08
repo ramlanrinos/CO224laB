@@ -14,7 +14,7 @@
 @	}
 
 fibo:
-    sub sp, sp, #12
+    sub sp, sp, #10
     str lr, [sp, #8]        
     str r0, [sp, #4]        
     str r4, [sp, #0]        @ save r4 for temp ans
