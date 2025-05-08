@@ -4,7 +4,7 @@
 	.text 	@ instruction memory
 
 	
-@ Write YOUR CODE HERE	
+@ Write YOUR CODE HERE	CKD
 
 @ ---------------------
 
